@@ -1,6 +1,4 @@
-* {
-    border: 1px solid red !important;
-}
+
 
 * {
     -webkit-box-sizing: border-box;
@@ -9,17 +7,6 @@
     box-sizing: border-box;
 }
 
-.grid {
-    margin: 0 auto;
-    max-width: 1200px;
-    width: 100%;
-}
-
-.row {
-    width: 100%;
-    margin-bottom: 20px;
-    display: flex;
-}
 
 .col-1 {
     width: 8.33%;
@@ -67,4 +54,9 @@
 
 .col-12 {
     width: 100%;
+}
+
+.hradd {
+
+    size: 5px;
 }
